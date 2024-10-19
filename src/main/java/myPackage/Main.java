@@ -7,12 +7,13 @@ import java.sql.Statement;
 public class Main {
 
 	public static void main(String[] args) {
-		
-		// Driver load Class.forName("com.mysql.cj.jdbc.Driver");
-		// connection
-		// statement
-		// statement execute
-		// close the connection
+
+		//Step of CRUD_OPERATION 
+		// 1.Driver load Class.forName("com.mysql.cj.jdbc.Driver");
+		// 2.connection
+		// 3.statement
+		// 4.statement execute
+		// 5.close the connection
 		
 		Student st=new Student();
 		//st.createDatabse();
